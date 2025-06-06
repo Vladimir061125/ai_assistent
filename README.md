@@ -4,7 +4,8 @@
 ## Описание проекта
 Скришот 1 https://github.com/user-attachments/assets/cf9fd970-df46-4fc0-9a87-98a7700d8677 
 
-Скриншот 2 ![image](https://github.com/user-attachments/assets/6bb8731c-7272-4235-8086-a7dce8b09470) 
+Скриншот 2![image](https://github.com/user-attachments/assets/64d85eed-518f-42d1-9c0c-6933e2e49c75)
+
 
 
 
