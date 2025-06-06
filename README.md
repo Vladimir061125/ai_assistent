@@ -2,9 +2,7 @@
 # Чат-бот в Телеграмм "Помощник по переговорам"
 Ссылка на Телеграмм-бота https://t.me/Toughnegotiations_bot 
 ## Описание проекта
-Скришот 1 ![image](https://github.com/user-attachments/assets/b0c1d88d-a6c8-4e23-906d-aa788892ca56)
-
-Скриншот 2 ![image](https://github.com/user-attachments/assets/16731b56-c2fa-45d6-9d51-98286e8200f8)
+Скришот 1
 
 
 
